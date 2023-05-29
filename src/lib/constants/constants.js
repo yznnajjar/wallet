@@ -16,5 +16,5 @@ export const WALLET_BODY = {
 export const AMOUNT_INFO = {
   INFO : "The down payment for a bid is SAR 1,000",
   INCREASE_ICON : <AiFillPlusCircle size={"2rem"} fill="#00dca6"/>,
-  DECREASE_ICON : <AiFillMinusCircle size={"2rem"} fill="#4a4a4a" twoToneColor="#eb2f96"/>
+  DECREASE_ICON : <AiFillMinusCircle size={"2rem"} fill="#4a4a4a"/>
 };
