@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.text-responsive {
+  @apply text-sm sm:text-base md:text-lg lg:text-xl;
+}
